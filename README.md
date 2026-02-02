@@ -1,4 +1,4 @@
-# Task 5 – Wireshark Traffic Capture & Analysis
+# Wireshark Traffic Capture & Analysis
 
 ## 🎯 Objective
 Capture real network traffic using Wireshark, apply protocol filters, identify different packet types, and save the capture file for analysis.
